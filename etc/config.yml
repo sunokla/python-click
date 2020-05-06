@@ -1,0 +1,10 @@
+## Runtime configuration for the span application.
+##
+core:
+  logging: WARN
+
+url:
+   c##informix/Future123@192.168.145.138:1521/cdb1
+
+url1:
+  oracle+cx_oracle://c##informix:Future123@192.168.145.138:1521/cdb1

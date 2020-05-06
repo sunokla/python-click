@@ -1,0 +1,58 @@
+[1mNAME[0m
+    cli.py
+
+[1mSYNOPSIS[0m
+    cli.py [4mGROUP[0m | [4mCOMMAND[0m | [4mVALUE[0m
+
+[1mGROUPS[0m
+    [1m[4mGROUP[0m[0m is one of the following:
+
+     sys
+       This module provides access to some objects used or maintained by the interpreter and to functions that interact strongly with the interpreter.
+
+     os
+       OS routines for NT or Posix depending on what system we're on.
+
+     paraservice
+
+     logger
+       Message logger.
+
+     fire
+       The Python Fire module.
+
+     datetime
+       Fast implementation of the datetime type.
+
+[1mCOMMANDS[0m
+    [1m[4mCOMMAND[0m[0m is one of the following:
+
+     ArgumentParser
+       Object for parsing command line strings into Python objects.
+
+     getfullargspec
+       Get the names and default values of a callable object's parameters.
+
+     main
+       Execute the application CLI.
+
+     cal_days
+       计算两个日期之间的天数
+
+     days2today
+       计算某天距离今天的天数
+
+     method_a1
+
+[1mVALUES[0m
+    [1m[4mVALUE[0m[0m is one of the following:
+
+     pwd
+
+     father_path
+
+     grader_father
+
+     grader_father1
+
+     argv
